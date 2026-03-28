@@ -75,28 +75,28 @@
 0      0      0.6	c	-Gblack
 6.5	7      0.5 c	-W0.1pt/white -Gblack
 
-8.2    6.7    0.3 c -G244/199/199 -W0.1pt/black
-9.4    7.4    0.4 c -G244/199/199 -W0.1pt/black
-10.3   8.2    0.5 c -G244/199/199 -W0.1pt/black
-11.2	9.2    0.6 c -G244/199/199 -W0.1pt/black
-12.1	9.7    1.0 c -G244/199/199 -W0.1pt/black
-6.0    7.8    M     -G244/199/199 -W0.1pt/black
+8.2    6.7    0.3 c -G244/199/199 -W0.1p,black
+9.4    7.4    0.4 c -G244/199/199 -W0.1p,black
+10.3   8.2    0.5 c -G244/199/199 -W0.1p,black
+11.2	9.2    0.6 c -G244/199/199 -W0.1p,black
+12.1	9.7    1.0 c -G244/199/199 -W0.1p,black
+6.0    7.8    M     -G244/199/199 -W0.1p,black
 #comment the former lines and uncomment the next six lines if you want white instead rose
-#8.2    6.7    0.3 c -Gwhite -W0.1pt/black
-#9.4    7.4    0.4 c -Gwhite -W0.1pt/black
-#10.3   8.2    0.5 c -Gwhite -W0.1pt/black
-#11.2	9.2    0.6 c -Gwhite -W0.1pt/black
-#12.1	9.7    1.0 c -Gwhite -W0.1pt/black
-#6.0    7.8    M     -Gwhite -W0.1pt/black
+#8.2    6.7    0.3 c -Gwhite -W0.1p,black
+#9.4    7.4    0.4 c -Gwhite -W0.1p,black
+#10.3   8.2    0.5 c -Gwhite -W0.1p,black
+#11.2	9.2    0.6 c -Gwhite -W0.1p,black
+#12.1	9.7    1.0 c -Gwhite -W0.1p,black
+#6.0    7.8    M     -Gwhite -W0.1p,black
 5.6    7.6    D
 5.6    7.2    D
 5.8    7      D
 6      7.4    D
 6.6    7.6    D
 6      7.8    D
-10.5  11.4   M -G244/199/199 -W0.1pt/black
+10.5  11.4   M -G244/199/199 -W0.1p,black
 #comment the line above and uncomment also the next line if you want white instead rose
-#10.5  11.4   M -Gwhite -W0.1pt/black
+#10.5  11.4   M -Gwhite -W0.1p,black
 11    11.8   D
 12    11.4   D
 12.8  11     D

@@ -64,11 +64,11 @@
 0	0	0.6	c -Gblack
 11.8	6.8	0.4	C -Gblack
 #
--14.7	2.8	M -W0.15pt/black
+-14.7	2.8	M -W0.15p,black
 -13.5	4	D
 -14.7	2.8	D
 #
-14.2	6.4	M -W0.15pt/black
+14.2	6.4	M -W0.15p,black
 13.6	6.8	D
 14.2	6.4	D
 #shadow

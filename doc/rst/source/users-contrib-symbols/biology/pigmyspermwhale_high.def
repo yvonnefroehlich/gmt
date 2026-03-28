@@ -55,8 +55,8 @@
 0	0	0.6	c	-Gblack
 -10.8	29.2	0.6	c	-Wwhite -Gblack
 #side
-8	33.3	M -G82/93/147 -W0.25pt/black
-#8	33.3	M -G82 -W0.25pt/black
+8	33.3	M -G82/93/147 -W0.25p,black
+#8	33.3	M -G82 -W0.25p,black
 6	33.5	D
 4	34	D
 4	34.5	D

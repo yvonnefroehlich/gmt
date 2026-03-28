@@ -56,7 +56,7 @@
 8.5	20.2	0.4	c	-Wwhite -Gblack
 
 #white belly
-0	17.9	M -G100	-W0.25pt/black
+0	17.9	M -G100	-W0.25p,black
 -1	18	D
 -4.5	18.5	D
 -6	19	D
