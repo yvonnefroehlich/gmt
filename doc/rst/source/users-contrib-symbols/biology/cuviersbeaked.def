@@ -50,8 +50,8 @@
 0	0	D
 0	0	0.6	c  -Gblack
 #sides
-14	20	M -G154/129/121 -W0.25pt/88/66/52
-#14	20	M -G40 -W0.25pt/80
+14	20	M -G154/129/121 -W0.25p,88/66/52
+#14	20	M -G40 -W0.25p,80
 13	19.5	D
 12	20.8	D
 10	22.1	D
@@ -110,37 +110,37 @@
 -2	23	D
 -1	23.4	D
 4.5	24	D
--10.5	18.75	0.6	c	-W0.5pt/150 -Gblack
+-10.5	18.75	0.6	c	-W0.5p,150 -Gblack
 #some scars
-4	22	M -W0.1pt/150
+4	22	M -W0.1p,150
 5	21	D
 4	22	D
-8	20	M -W0.1pt/150
+8	20	M -W0.1p,150
 7	21.7	D
 8	20	D
--1	21.4	M -W0.1pt/150
+-1	21.4	M -W0.1p,150
 1	22.9	D
 -1	21.4	D
-0	20	0.3	c	-Gwhite -W0.2pt/255
-1	20	0.3	c	-Gwhite -W0.1pt/245
-1.1	20	0.5	c	-Gwhite -W0.2pt/250
-2	20	0.3	c	-Gwhite -W0.2pt/235
-4	20	0.4	c	-Gwhite -W0.2pt/250
-5	20	0.3	c	-Gwhite -W0.2pt/238
-6	20	0.3	c	-Gwhite -W0.3pt/254
-6.7	19.7	0.3	c	-Gwhite -W0.2pt/253
-7	19.6	0.3	c	-Gwhite -W0.3pt/255
-0.4	19.8	0.3	c	-Gwhite -W0.2pt/200
-1.2	19.7	0.3	c	-Gwhite -W0.2pt/255
-1.4	20.1	0.2	c	-Gwhite -W0.3pt/255
-2.3	19.9	0.3	c	-Gwhite -W0.1pt/255
-3.7	20.2	0.2	c	-Gwhite -W0.2pt/255
-5.1	19.8	0.6	c	-Gwhite -W0.1pt/210
-5.7	20.1	0.3	c	-Gwhite -W0.2pt/255
--2	19	0.3	c	-Gwhite -W0.3pt/250
--1	19	0.3	c	-Gwhite -W0.1pt/255
--1.1	19.1	0.5	c	-Gwhite -W0.2pt/255
-0.1	19.2	0.3	c	-Gwhite -W0.2pt/220
-1	19.3	0.4	c	-Gwhite -W0.1pt/232
-2	19.2	0.3	c	-Gwhite -W0.1pt/240
-2.7	19.4	0.3	c	-Gwhite -W0.2pt/255
+0	20	0.3	c	-Gwhite -W0.2p,255
+1	20	0.3	c	-Gwhite -W0.1p,245
+1.1	20	0.5	c	-Gwhite -W0.2p,250
+2	20	0.3	c	-Gwhite -W0.2p,235
+4	20	0.4	c	-Gwhite -W0.2p,250
+5	20	0.3	c	-Gwhite -W0.2p,238
+6	20	0.3	c	-Gwhite -W0.3p,254
+6.7	19.7	0.3	c	-Gwhite -W0.2p,253
+7	19.6	0.3	c	-Gwhite -W0.3p,255
+0.4	19.8	0.3	c	-Gwhite -W0.2p,200
+1.2	19.7	0.3	c	-Gwhite -W0.2p,255
+1.4	20.1	0.2	c	-Gwhite -W0.3p,255
+2.3	19.9	0.3	c	-Gwhite -W0.1p,255
+3.7	20.2	0.2	c	-Gwhite -W0.2p,255
+5.1	19.8	0.6	c	-Gwhite -W0.1p,210
+5.7	20.1	0.3	c	-Gwhite -W0.2p,255
+-2	19	0.3	c	-Gwhite -W0.3p,250
+-1	19	0.3	c	-Gwhite -W0.1p,255
+-1.1	19.1	0.5	c	-Gwhite -W0.2p,255
+0.1	19.2	0.3	c	-Gwhite -W0.2p,220
+1	19.3	0.4	c	-Gwhite -W0.1p,232
+2	19.2	0.3	c	-Gwhite -W0.1p,240
+2.7	19.4	0.3	c	-Gwhite -W0.2p,255

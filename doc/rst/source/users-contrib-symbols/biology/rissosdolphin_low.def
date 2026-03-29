@@ -75,7 +75,7 @@
 0	13	D
 1.5	13	D
 #belly
--8	8.5	M  -G250 -W0.25pt/230
+-8	8.5	M  -G250 -W0.25p,230
 -5	8.7	D
 -3	8.6	D
 -1	8	D
@@ -99,25 +99,25 @@
 10.4	5	D
 11.4	6	0.4	c -Gblack -Wwhite
 #some scars
-8	8	M -Gwhite -W0.25pt/white
+8	8	M -Gwhite -W0.25p,white
 7	7	D
 8	8	D
-6	11.4	M -Gwhite -W0.25pt/230
+6	11.4	M -Gwhite -W0.25p,230
 6.9	10.5	D
 6	11.4	D
-4	12	M -Gwhite -W0.25pt/white
+4	12	M -Gwhite -W0.25p,white
 5	11.6	D
 5.5	11	D
 5	11.6	D
 4	12	D
-3	12	M -Gwhite -W0.1pt/white
+3	12	M -Gwhite -W0.1p,white
 3.2	12.2	D
 3.4	12.1	D
 3.8	12	D
 3.4	12.1	D
 3.2	12.2	D
 3	12	D
-1	10	M -Gwhite -W0.2pt/250
+1	10	M -Gwhite -W0.2p,250
 2	10.7	D
 3	11	D
 2	10.7	D

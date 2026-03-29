@@ -79,7 +79,7 @@
 4.2	22	D
 0	22.5	D
 #ventral patch
--6	20.2	M -G240 -W0.2pt/90
+-6	20.2	M -G240 -W0.2p,90
 -9.2	20.2	D
 -10.1	20.2	D
 #-10.2	19.8	D
@@ -116,10 +116,10 @@
 3	19.7	D
 1	20.1	D
 -6	20.2	D
--8.5	20.2	0.8	c	-W0.5pt/white -Gblack
--8.5	20.2	0.4	c	-W0.2pt/white -Gblack
+-8.5	20.2	0.8	c	-W0.5p,white -Gblack
+-8.5	20.2	0.4	c	-W0.2p,white -Gblack
 #mouth line
--10.4	19.8	M -W0.15pt/0 -Gblack
+-10.4	19.8	M -W0.15p,0 -Gblack
 -10.0	19.8	D
 -9.5	19.8	D
 -8	19.4	D

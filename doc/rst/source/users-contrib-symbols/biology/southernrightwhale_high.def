@@ -72,7 +72,7 @@
 -1     24      D
 0      24      D
 0      0      0.6	c	-Gblack
--6.5	27      0.5 c	-W0.1pt/white -Gblack
+-6.5	27      0.5 c	-W0.1p,white -Gblack
 
 -8.2    26.7    0.3 c -G248/195/33 -W0.1p,black
 -9.4    27.4    0.4 c -G248/195/33 -W0.1p,black
@@ -101,7 +101,7 @@
 -11.8  31.2   D
 -10.5  31.4   D
 #belly
-5.2	25      M -Gwhite -W0.2pt/200
+5.2	25      M -Gwhite -W0.2p,200
 8	26.2    D
 8.6	27      D
 7.3	27      D
